@@ -1,0 +1,13 @@
+{
+	"name": "AgencyNames",
+	"repository": "https://github.com/acrimer/agencynames",
+	"description": "Generates and posts a plausible design/digital agency name to twitter",
+	"version": "0.0.1",
+	"main": "./agencynames.js",
+	"dependencies": {
+		"twit": "^2.1.1"
+	},
+	"engines": {
+		"node": "^0.12.6"
+	}
+}
